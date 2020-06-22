@@ -1,17 +1,5 @@
 <img src="juros-composto.gif" alt="juros-composto" width="100%">
 
-## Available Scripts
-
-In the project directory, you can run:
-
-### `yarn start`
-
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
-
 ### `Enunciado`
 Criar uma aplicação com React, realizar cálculo de valorização/depreciação com base em
 um montante, taxa de juros mensal e quantidade de parcelas mensal, utilizando o conceito
@@ -36,6 +24,18 @@ deps as variáveis de estado referentes aos três inputs.
 inputs), `<Installments />` e `<Installment />` (parcelas/parcela, em inglês).
 6. Não deixem de assistir o vídeo de apresentação deste desafio, onde demonstro a
 aplicação em funcionamento e dou mais algumas dicas.
+
+## Available Scripts
+
+In the project directory, you can run:
+
+### `yarn start`
+
+Runs the app in the development mode.<br />
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
+The page will reload if you make edits.<br />
+You will also see any lint errors in the console.
 
 # Dúvidas?
 :mailbox_with_no_mail:[Marcelo Bonilla](https://www.linkedin.com/in/marcelobonilla/)
